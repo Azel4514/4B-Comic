@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'newLang';
+    src: url('C4b-Regular.otf');
+}
+
+div.a {
+    font-size: 150px;
+}
