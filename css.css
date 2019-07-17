@@ -1,18 +1,10 @@
 @font-face {
-    font-family: 'newLang';
-    src: url('C4b-Regular.otf');
-    font-family: 'titleFont';
-    src: url('Beauty and the Beast Sample.otf');
+  font-family: 'newLang';
+  src: url('C4b-Regular.otf');
 }
 
 div.a {
-    font-size: 300px;
-}
-
-h1 {
-  font-family: 'titleFont';
-  text-align: center;
-  font-size: 50px;
+  font-size: 300px;
 }
 
 textarea {
@@ -20,6 +12,17 @@ textarea {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+
+@font-face {
+  font-family: 'titleFont';
+  src: url('Beauty and the Beast Sample.otf');
+}
+
+h1 {
+  font-family: 'titleFont';
+  text-align: center;
+  font-size: 50px;
 }
 
 input{
